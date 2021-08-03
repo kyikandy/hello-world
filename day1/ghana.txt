@@ -1,2 +1,3 @@
 I am from Ghana and I really love Ghana.
 My python teacher is a great.
+Sandy is such a great person. He is really enjoying Git and GitHub. I hope he will enjoy the python more than Git and GitHub.
